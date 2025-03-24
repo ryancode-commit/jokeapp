@@ -41,8 +41,8 @@ Aplikasi ini mengambil data dari API berikut:
 3. Jalankan aplikasi menggunakan emulator atau perangkat fisik.
 
 ## GIF
-![Demo Aplikasi](https://github.com/ryancode-commit/jokeapp/blob/main/tech1.gif)
-![Demo Aplikasi](https://github.com/ryancode-commit/jokeapp/blob/main/tech2.gif)
+![Demo Aplikasi](tech1.gif)
+![Demo Aplikasi](tech2.gif)
 
 
 
