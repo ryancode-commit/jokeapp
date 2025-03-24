@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24023784275",
+    "firebase_url": "https://dumi-lender-default-rtdb.firebaseio.com",
+    "project_id": "dumi-lender",
+    "storage_bucket": "dumi-lender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24023784275:android:e51e6de1eecc4300209fa6",
+        "android_client_info": {
+          "package_name": "com.minjem.dumi_lender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24023784275-jcddb1fis6vlpbvrl1nanuvkds0et32j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minjem.dumi_lender",
+            "certificate_hash": "b19fd74dff823b1252c6c4307d0a358e265e76bb"
+          }
+        },
+        {
+          "client_id": "24023784275-htv5hpnou0646tfihth5bdei4s095nkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0q-ZE5XR3ISDiPn2r4QSmWjxnPTdnzQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24023784275-htv5hpnou0646tfihth5bdei4s095nkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

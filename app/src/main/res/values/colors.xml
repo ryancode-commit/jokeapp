@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#A96DF4</color>
+    <color name="blue_500">#379DD7</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#3787FF</color>
+    <color name="teal_700">#3687FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#8C8C8C</color>
+    <color name="grey_light">#D9D9D9</color>
+    <color name="green_light">#37D79D</color>
+    <color name="orange_light">#F8973E</color>
+    <color name="blue_primary">#2078FC</color>
+    <color name="red_primary">#F2300B</color>
+
+    <color name="purple">#673AB7</color>
+    <color name="blueTrans">#68D0FA</color>
+    <color name="grey_title">#424242</color>
+    <color name="grey_100">#EAEAEA</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#BDBDBD</color>
+    <color name="grey_700">#959595</color>
+    <color name="grey_1000">#444444</color>
+    <color name="grey_c4">#c4c4c4</color>
+    <color name="black70">#B2000000</color>
+    <color name="dialogBackground">#60000000</color>
+    <color name="green">#5DCA62</color>
+    <color name="softGreen">#D8FFD9</color>
+    <color name="yellow">#FFAA2B</color>
+    <color name="softYellow">#FFF2D8</color>
+    <color name="softOrange">#E87A4B</color>
+    <color name="orange">#FF6969</color>
+    <color name="softRed">#FFDAD8</color>
+    <color name="background">#dddddd</color>
+    <color name="colorGrey">#dddddd</color>
+    <color name="colorPrimaryLender">#69B5EF</color>
+    <color name="colorPrimary">#69B5EF</color>
+    <color name="colorPrimaryDarkLender">#538DC3</color>
+    <color name="colorPrimaryDark">#538DC3</color>
+    <color name="green_nominal">#31A200</color>
+    <color name="btn_color_top">#F2300B</color>
+    <color name="btn_color_go_top">#FFC207</color>
+    <color name="shimmer_placeholder">#E0E0E0</color>
+
+</resources>
