@@ -35,10 +35,16 @@ Aplikasi ini mengambil data dari API berikut:
 
 1. Clone repository ini:
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/ryancode-commit/jokeapp.git
    ```
 2. Buka di Android Studio.
 3. Jalankan aplikasi menggunakan emulator atau perangkat fisik.
+
+## GIF
+![Demo Aplikasi](https://github.com/ryancode-commit/jokeapp/blob/main/tech1.gif)
+![Demo Aplikasi](https://github.com/ryancode-commit/jokeapp/blob/main/tech2.gif)
+
+
 
 ## Author
 
